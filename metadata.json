@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Prep & Job Matcher",
+  "description": "AI-powered interview preparation platform that analyzes your CV, matches top job roles, generates tailored Q&As, and conducts personalized practice sessions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
